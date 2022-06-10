@@ -1,0 +1,18 @@
+.navbar {
+    margin-bottom: 50px;
+    border-radius: 0;
+}
+.jumbo{
+    margin-bottom: 0;
+}
+footer {
+    background-color: #f2f2f2;
+    padding: 25px;
+}
+
+.price {
+    color: grey;
+    font-size: 22px;
+    
+
+    }
